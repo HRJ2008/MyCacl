@@ -2,6 +2,10 @@
 
 MyCalc is a clean and modern calculator app built as a web app with HTML, CSS, and JavaScript, with a Flutter version included for Android, Windows, web, macOS, Linux, and iOS builds.
 
+## Live Website
+
+https://mycacl.harshrajjha2008.workers.dev/
+
 ## Web App
 
 Cloudflare Pages settings for the current static web app:
