@@ -1,17 +1,27 @@
-# Calcly Flutter
+# MyCacl / Calcly
 
-This is the Flutter version of the Calcly calculator.
+MyCalc is a clean and modern calculator app built as a web app with HTML, CSS, and JavaScript, with a Flutter version included for Android, Windows, web, macOS, Linux, and iOS builds.
 
-## Required setup
+## Web App
 
-Flutter is not installed on this machine right now. Install Flutter first, then run:
+Cloudflare Pages settings for the current static web app:
+
+```text
+Framework preset: None
+Build command: empty
+Output directory: public
+```
+
+## Flutter Setup
+
+Install Flutter first, then run:
 
 ```powershell
 flutter create --platforms=android,web,windows,macos,linux,ios .
 flutter pub get
 ```
 
-## Build commands
+## Build Commands
 
 ```powershell
 # Web app
